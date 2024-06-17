@@ -7,10 +7,10 @@
             <img src="/app/src/main/res/screenshots/screen1.png">
         </td>
         <td>
-            <img src="/app/src/main/res/screenshots/screen2.png">
+            <img src="/app/src/main/res/screenshots/screen4.png">
         </td>
         <td>
-            <img src="/app/src/main/res/screenshots/screen3.png">
+            <img src="/app/src/main/res/screenshots/screen5.png">
         </td>
     </tr>
 </table>
